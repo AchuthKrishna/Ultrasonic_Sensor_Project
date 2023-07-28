@@ -1,6 +1,8 @@
 # Ultrasonic Sensor Project
 A repo holding an old project done on a CircuitPython microcontroller using an ultrasonic sensor and other electronic components. This was done in my first year of college, when I was still unfamiliar with GitHub and Git.
 
+The premise of this project revolved around a desire to create a device assisting in areas or situations where one's vision is impaired. As such, I imagined it could be a nice companion device for the visually impaired, or in unfamiliar places with little light.
+
 Here is a picture of the physical design, containing an ultrasonic sensor and feedback systems in the form of an LED and a piezo buzzer:
 ![](SIPPFinalProject.jpeg)
 
